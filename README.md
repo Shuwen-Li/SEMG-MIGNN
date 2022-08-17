@@ -3,6 +3,8 @@ This is a repository for paper "  ".
 
 # Introduction
 
+Unlike the current situation of synthetic performance pre-diction where most studies directly applied available ML algorithms, the innovation of ML framework for molecular property prediction has recently saw remarkable progress. Based on graph representation, a series of breakthroughs of molecular graph models have enabled chemical accura-cy-level predictions for millions of small organic molecules, which has generated a strong momentum for arti-ficial intelligence design of functional molecules. These studies revealed the potential of artificial intelligence mod-elling in chemical research and particularly pointed out the critical role of model framework in chemical ML. In light of the advantage of graph model in representing small or-ganic molecules, we surmise that the SPR model can be innovated by enriching the local encodings of chemical environment and strengthen the information interaction between reaction components. Herein we report a new re-action performance model with two innovative designs; this model for the first time embeds the digitalized steric and electronic information of atomic environment, and the molecular interaction module allows the effective learning of the synergistic control by multiple reaction components. This model achieved excellent yield and stereose-lectivity predictions, and our additional experimental tests of asymmetric thiol addition of imines verified its extrapo-lation ability in new catalyst predictions. This efficient, accurate and explainable model provides a useful ap-proach for reaction performance prediction, which will ac-celerate the ML design of molecular synthesis.
+
 
 
 # Packages requirements
