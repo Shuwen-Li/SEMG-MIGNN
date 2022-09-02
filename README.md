@@ -44,7 +44,9 @@ Embed electronic information
 
 ![SEMG_si_spms](https://user-images.githubusercontent.com/71930017/188142934-59d21532-8a1c-4b48-b879-f395664c6790.jpg)
 
-# Generation of MIGNN
+# MIGNN
+
+The detailed workflow of the MIGNN model is shown as follows, which uses the chiral phosphoric acid-catalyzed thiol addition to N-acylimines as an example. 
 
 ![mignn_si](https://user-images.githubusercontent.com/71930017/188142704-cbf56a26-f2d0-4d69-a768-44d57d6f3f0d.jpg)
 
