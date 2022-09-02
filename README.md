@@ -22,11 +22,15 @@ seaborn = 0.11.1
 sklearn = 0.23.2  
 xgboost = 1.3.3 
 ```
+# Demo & Instructions for use![mignn_si](https://user-images.githubusercontent.com/71930017/188142704-cbf56a26-f2d0-4d69-a768-44d57d6f3f0d.jpg)
 
-# Demo & Instructions for use
+
 Notebook 1 demonstrates how to use generate local steric and electronic information in data1.
+
 Notebook 2 demonstrates how to train and predict yield in data1.
+
 Notebook 3 demonstrates how to use generate local steric and electronic information in data2.
+
 Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
 
 
