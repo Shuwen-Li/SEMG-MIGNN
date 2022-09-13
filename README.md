@@ -59,4 +59,4 @@ The detailed workflow of the MIGNN model is shown as follows, which uses the chi
 # How to cite
 The paper is under review.
 # Contact with us
-Email: hxchem@zju.edu.cn; 22037023@zju.edu.cn
+Email: hxchem@zju.edu.cn; shuwen-li@zju.edu.cn
