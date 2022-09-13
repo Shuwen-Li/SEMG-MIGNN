@@ -26,13 +26,15 @@ xgboost = 1.3.3
 # Demo & Instructions for use
 
 
-Notebook 1 demonstrates how to use generate local steric and electronic information in data1.
+Notebook 1 demonstrates how to generate local steric and electronic information in data1.
 
 Notebook 2 demonstrates how to train and predict yield in data1.
 
 Notebook 3 demonstrates how to use generate local steric and electronic information in data2.
 
 Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
+
+Baseline folder demonstrates how to train and predict yield/enantioselectivity by baseline MG-GCN, SEMG-GCN, baseline MG-MIGNN, and classical descriptors-models.
 
 # Generation of SEMG
 
