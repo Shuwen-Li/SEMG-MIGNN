@@ -13,13 +13,17 @@ Unlike the current situation of synthetic performance prediction where most stud
 # Packages requirements
 In order to run Jupyter Notebook involved in this repository, several third-party python packages are required. The versions of these packages in our station are listed below.
 ```
+dgl = 0.7.2
 matplotlib = 3.4.2
+networkx = 2.6.3
 numpy = 1.22.4  
 pandas = 1.3.3 
+pyscf = 2.0.1
 rdkit = 2022.03.2   
 scipy = 1.4.1 
 seaborn = 0.11.1 
 sklearn = 0.23.2  
+tensorflow = 2.8.0-dev20211115
 xgboost = 1.3.3 
 ```
 
