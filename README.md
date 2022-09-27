@@ -5,6 +5,20 @@ This is a repository for paper "Extrapolative and interpretable reaction perform
 
 Unlike the current situation of synthetic performance prediction where most studies directly applied available ML algorithms31, the innovation of ML framework for molecular property prediction has recently saw remarkable progress32,33. Based on graph representation, a series of breakthroughs of molecular graph models have enabled chemical accuracy-level predictions for millions of small organic molecules (Fig. 1b), which has generated a strong momentum for artificial intelligence design of functional molecules34,35. These studies revealed the potential of artificial intelligence modelling in chemical research and particularly pointed out the critical role of model framework in chemical ML. In light of the advantage of graph model in representing small organic molecules, we surmise that the SPR model can be innovated by enriching the local encodings of chemical environment and strengthen the information interaction between reaction components. Herein we report a new reaction performance model with two innovative designs; this model for the first time embeds the digitalized steric and electronic information of atomic environment, and the molecular interaction module allows the effective learning of the synergistic control by multiple reaction components (Fig. 1c). This model achieved excellent yield and stereoselectivity predictions, and our additional experimental tests of asymmetric thiol addition of imines verified its extrapolation ability in new catalyst predictions. This efficient, accurate and explainable model provides a useful approach for reaction performance prediction, which will accelerate the ML design of molecular synthesis.
 
+# Generation of SEMG
+
+Embed steric information:
+
+![SEMG_si_ele](https://user-images.githubusercontent.com/71930017/188142893-bbf371ee-1896-49e1-bd28-4976e8c2f9dd.jpg)
+
+Embed electronic information
+
+![SEMG_si_spms](https://user-images.githubusercontent.com/71930017/188142934-59d21532-8a1c-4b48-b879-f395664c6790.jpg)
+# MIGNN
+
+The detailed workflow of the MIGNN model is shown as follows, which uses the chiral phosphoric acid-catalyzed thiol addition to N-acylimines as an example. 
+
+![mignn_si](https://user-images.githubusercontent.com/71930017/188142704-cbf56a26-f2d0-4d69-a768-44d57d6f3f0d.jpg)
 
 # Packages requirements
 In order to run Jupyter Notebook involved in this repository, several third-party python packages are required. The versions of these packages in our station are listed below.
@@ -36,21 +50,6 @@ Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
 
 Baseline folder demonstrates how to train and predict yield/enantioselectivity by baseline MG-GCN, SEMG-GCN, baseline MG-MIGNN, and classical descriptors-models.
 
-# Generation of SEMG
-
-Embed steric information:
-
-![SEMG_si_ele](https://user-images.githubusercontent.com/71930017/188142893-bbf371ee-1896-49e1-bd28-4976e8c2f9dd.jpg)
-
-Embed electronic information
-
-![SEMG_si_spms](https://user-images.githubusercontent.com/71930017/188142934-59d21532-8a1c-4b48-b879-f395664c6790.jpg)
-
-# MIGNN
-
-The detailed workflow of the MIGNN model is shown as follows, which uses the chiral phosphoric acid-catalyzed thiol addition to N-acylimines as an example. 
-
-![mignn_si](https://user-images.githubusercontent.com/71930017/188142704-cbf56a26-f2d0-4d69-a768-44d57d6f3f0d.jpg)
 
 # How to cite
 The paper is under review.
