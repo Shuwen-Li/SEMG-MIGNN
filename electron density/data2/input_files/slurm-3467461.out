@@ -1,0 +1,91 @@
+/public3/home/scg5914/software-scg5914/LSW/1/data/data2/std_data/def2svp_b3lyp/thiol_0.xyz
+converged SCF energy = -477.721201824348
+**** MO energy ****
+MO #1   energy= -88.8240263812201  occ= 2
+MO #2   energy= -10.2112955058811  occ= 2
+MO #3   energy= -10.1818879031945  occ= 2
+MO #4   energy= -7.91999406324823  occ= 2
+MO #5   energy= -5.8893514941962   occ= 2
+MO #6   energy= -5.88568638439189  occ= 2
+MO #7   energy= -5.87843722968824  occ= 2
+MO #8   energy= -0.79360629578814  occ= 2
+MO #9   energy= -0.694421222205637 occ= 2
+MO #10  energy= -0.597800085847407 occ= 2
+MO #11  energy= -0.467904302467611 occ= 2
+MO #12  energy= -0.431947628381903 occ= 2
+MO #13  energy= -0.404646022556369 occ= 2
+MO #14  energy= -0.373553509448716 occ= 2
+MO #15  energy= -0.356515005650946 occ= 2
+MO #16  energy= -0.314793487083831 occ= 2
+MO #17  energy= -0.227220670900443 occ= 2
+MO #18  energy= 0.0339247821889553 occ= 0
+MO #19  energy= 0.0754164591065402 occ= 0
+MO #20  energy= 0.086037173556105  occ= 0
+MO #21  energy= 0.109793285382038  occ= 0
+MO #22  energy= 0.116005267598193  occ= 0
+MO #23  energy= 0.144665898588631  occ= 0
+MO #24  energy= 0.15204776519459   occ= 0
+MO #25  energy= 0.21448937354699   occ= 0
+MO #26  energy= 0.351821313854404  occ= 0
+MO #27  energy= 0.396833313480273  occ= 0
+MO #28  energy= 0.415090020403891  occ= 0
+MO #29  energy= 0.42310307680143   occ= 0
+MO #30  energy= 0.470547670062862  occ= 0
+MO #31  energy= 0.496006893394099  occ= 0
+MO #32  energy= 0.521318363013293  occ= 0
+MO #33  energy= 0.603499782838508  occ= 0
+MO #34  energy= 0.638566163253374  occ= 0
+MO #35  energy= 0.645515390989415  occ= 0
+MO #36  energy= 0.657748398773264  occ= 0
+MO #37  energy= 0.667757738760821  occ= 0
+MO #38  energy= 0.682176080589028  occ= 0
+MO #39  energy= 0.688661200042455  occ= 0
+MO #40  energy= 0.709195931279164  occ= 0
+MO #41  energy= 0.738047853982093  occ= 0
+MO #42  energy= 0.778127111272339  occ= 0
+MO #43  energy= 0.780179701911643  occ= 0
+MO #44  energy= 0.802860889632691  occ= 0
+MO #45  energy= 0.851189389402839  occ= 0
+MO #46  energy= 0.980647979971289  occ= 0
+MO #47  energy= 1.05678831371096   occ= 0
+MO #48  energy= 1.1212591642756    occ= 0
+MO #49  energy= 1.18779005007154   occ= 0
+MO #50  energy= 1.24701302665296   occ= 0
+MO #51  energy= 1.3531500630567    occ= 0
+MO #52  energy= 1.53592820522402   occ= 0
+MO #53  energy= 1.53677671062366   occ= 0
+MO #54  energy= 1.59094005361766   occ= 0
+MO #55  energy= 1.59838886738524   occ= 0
+MO #56  energy= 1.73210164366474   occ= 0
+MO #57  energy= 1.75271657563513   occ= 0
+MO #58  energy= 1.77699392840306   occ= 0
+MO #59  energy= 1.78269870999559   occ= 0
+MO #60  energy= 1.83583819142489   occ= 0
+MO #61  energy= 1.8564928533048    occ= 0
+MO #62  energy= 1.87712923617778   occ= 0
+MO #63  energy= 1.95678286641159   occ= 0
+MO #64  energy= 2.07635915095933   occ= 0
+MO #65  energy= 2.18881800116384   occ= 0
+MO #66  energy= 2.22612659219696   occ= 0
+MO #67  energy= 2.27002458608008   occ= 0
+MO #68  energy= 2.37514185003892   occ= 0
+MO #69  energy= 2.43727523549632   occ= 0
+MO #70  energy= 2.52329043144444   occ= 0
+MO #71  energy= 2.57527813853564   occ= 0
+MO #72  energy= 2.75138755227971   occ= 0
+MO #73  energy= 2.85087928146424   occ= 0
+MO #74  energy= 2.94223142842042   occ= 0
+MO #75  energy= 2.97247518524616   occ= 0
+MO #76  energy= 3.01757916516151   occ= 0
+ ** Mulliken atomic charges  **
+charge of  0C =     -0.27766
+charge of  1C =     -0.18976
+charge of  2S =     -0.09514
+charge of  3H =      0.09301
+charge of  4H =      0.09528
+charge of  5H =      0.10060
+charge of  6H =      0.10148
+charge of  7H =      0.10866
+charge of  8H =      0.06353
+Dipole moment(X, Y, Z, Debye):  0.49455, -0.41717, -1.41029
+def2-svp b3lyp 3.6561062335968018

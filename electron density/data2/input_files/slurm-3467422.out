@@ -1,0 +1,2 @@
+/public3/home/scg5914/software-scg5914/LSW/1/data/data2/std_data/def2svp_b3lyp/cat_18.xyz
+/var/spool/slurm/d/job3467422/slurm_script: line 8: 64805 Bus error               python -u /public3/home/scg5914/software-scg5914/LSW/1/data/data2/def2svp_b3lyp.py $1

@@ -1,0 +1,1171 @@
+/public3/home/scg5914/software-scg5914/LSW/1/data/data2/std_data/def2svp_b3lyp/cat_15.xyz
+converged SCF energy = -2505.11047501153
+**** MO energy ****
+MO #1   energy= -77.208730732758   occ= 2
+MO #2   energy= -19.1727876692235  occ= 2
+MO #3   energy= -19.1722676490814  occ= 2
+MO #4   energy= -19.1657346445963  occ= 2
+MO #5   energy= -19.0788332537456  occ= 2
+MO #6   energy= -10.2514098710167  occ= 2
+MO #7   energy= -10.2437664344776  occ= 2
+MO #8   energy= -10.1999743233166  occ= 2
+MO #9   energy= -10.1981506128909  occ= 2
+MO #10  energy= -10.1955425604702  occ= 2
+MO #11  energy= -10.1947418210703  occ= 2
+MO #12  energy= -10.1946874553173  occ= 2
+MO #13  energy= -10.1908263202459  occ= 2
+MO #14  energy= -10.1904851378041  occ= 2
+MO #15  energy= -10.1896533082416  occ= 2
+MO #16  energy= -10.1895614820525  occ= 2
+MO #17  energy= -10.1891380099979  occ= 2
+MO #18  energy= -10.1890565221525  occ= 2
+MO #19  energy= -10.1882966819506  occ= 2
+MO #20  energy= -10.1881043915567  occ= 2
+MO #21  energy= -10.1868780566243  occ= 2
+MO #22  energy= -10.186108016827   occ= 2
+MO #23  energy= -10.185213984449   occ= 2
+MO #24  energy= -10.1845864421889  occ= 2
+MO #25  energy= -10.1837940499394  occ= 2
+MO #26  energy= -10.1835080194904  occ= 2
+MO #27  energy= -10.183303795606   occ= 2
+MO #28  energy= -10.1829448792278  occ= 2
+MO #29  energy= -10.1803961928186  occ= 2
+MO #30  energy= -10.1803637911226  occ= 2
+MO #31  energy= -10.1798821342601  occ= 2
+MO #32  energy= -10.1795071001927  occ= 2
+MO #33  energy= -10.1779120298514  occ= 2
+MO #34  energy= -10.1753740250472  occ= 2
+MO #35  energy= -10.1726751358334  occ= 2
+MO #36  energy= -10.1725360027953  occ= 2
+MO #37  energy= -10.1724769678008  occ= 2
+MO #38  energy= -10.1713534299315  occ= 2
+MO #39  energy= -10.1713388196109  occ= 2
+MO #40  energy= -10.1708506556071  occ= 2
+MO #41  energy= -10.1700572676793  occ= 2
+MO #42  energy= -10.1666065015824  occ= 2
+MO #43  energy= -10.1629006570989  occ= 2
+MO #44  energy= -10.1628099945535  occ= 2
+MO #45  energy= -10.162571011895   occ= 2
+MO #46  energy= -10.1624737362278  occ= 2
+MO #47  energy= -10.1624323189022  occ= 2
+MO #48  energy= -10.161917858709   occ= 2
+MO #49  energy= -10.1618101191593  occ= 2
+MO #50  energy= -10.1616008620642  occ= 2
+MO #51  energy= -10.1599432640728  occ= 2
+MO #52  energy= -10.1598929583873  occ= 2
+MO #53  energy= -10.1582045781222  occ= 2
+MO #54  energy= -6.68440509757519  occ= 2
+MO #55  energy= -4.85197413054715  occ= 2
+MO #56  energy= -4.85175958637111  occ= 2
+MO #57  energy= -4.84942347824976  occ= 2
+MO #58  energy= -1.10999595713406  occ= 2
+MO #59  energy= -1.04595728175504  occ= 2
+MO #60  energy= -1.03515209278324  occ= 2
+MO #61  energy= -0.952436601347794 occ= 2
+MO #62  energy= -0.882681825303924 occ= 2
+MO #63  energy= -0.869069498188703 occ= 2
+MO #64  energy= -0.861737100808693 occ= 2
+MO #65  energy= -0.851546955968342 occ= 2
+MO #66  energy= -0.82443204856652  occ= 2
+MO #67  energy= -0.821582949599581 occ= 2
+MO #68  energy= -0.816943556160844 occ= 2
+MO #69  energy= -0.813307340126392 occ= 2
+MO #70  energy= -0.807045179837383 occ= 2
+MO #71  energy= -0.792331739246406 occ= 2
+MO #72  energy= -0.783043285334362 occ= 2
+MO #73  energy= -0.756522391878344 occ= 2
+MO #74  energy= -0.754001712815777 occ= 2
+MO #75  energy= -0.748291121130475 occ= 2
+MO #76  energy= -0.734057504145567 occ= 2
+MO #77  energy= -0.723686609399407 occ= 2
+MO #78  energy= -0.720302568983225 occ= 2
+MO #79  energy= -0.713002924342504 occ= 2
+MO #80  energy= -0.711118776087202 occ= 2
+MO #81  energy= -0.697566721848726 occ= 2
+MO #82  energy= -0.680773623464429 occ= 2
+MO #83  energy= -0.680292170452925 occ= 2
+MO #84  energy= -0.673925053981732 occ= 2
+MO #85  energy= -0.671843118040368 occ= 2
+MO #86  energy= -0.671036682763288 occ= 2
+MO #87  energy= -0.669825538481019 occ= 2
+MO #88  energy= -0.669004429095508 occ= 2
+MO #89  energy= -0.66772101449204  occ= 2
+MO #90  energy= -0.664819280760976 occ= 2
+MO #91  energy= -0.641293719863752 occ= 2
+MO #92  energy= -0.631861717519994 occ= 2
+MO #93  energy= -0.624595053128683 occ= 2
+MO #94  energy= -0.619534866781118 occ= 2
+MO #95  energy= -0.610514469019897 occ= 2
+MO #96  energy= -0.603485349729799 occ= 2
+MO #97  energy= -0.596809913535943 occ= 2
+MO #98  energy= -0.592598719776474 occ= 2
+MO #99  energy= -0.586762933832534 occ= 2
+MO #100 energy= -0.57642993254835  occ= 2
+MO #101 energy= -0.570684828024467 occ= 2
+MO #102 energy= -0.563103551594477 occ= 2
+MO #103 energy= -0.558867088059931 occ= 2
+MO #104 energy= -0.544901077548484 occ= 2
+MO #105 energy= -0.537718281860211 occ= 2
+MO #106 energy= -0.517877189629285 occ= 2
+MO #107 energy= -0.514383659210881 occ= 2
+MO #108 energy= -0.5118787623599   occ= 2
+MO #109 energy= -0.508631922658843 occ= 2
+MO #110 energy= -0.504671453587161 occ= 2
+MO #111 energy= -0.500945942887284 occ= 2
+MO #112 energy= -0.496069123787138 occ= 2
+MO #113 energy= -0.491087096720669 occ= 2
+MO #114 energy= -0.477063961882947 occ= 2
+MO #115 energy= -0.475055817560571 occ= 2
+MO #116 energy= -0.470769409178832 occ= 2
+MO #117 energy= -0.467729291112728 occ= 2
+MO #118 energy= -0.458896349827332 occ= 2
+MO #119 energy= -0.457249576597713 occ= 2
+MO #120 energy= -0.452647828428497 occ= 2
+MO #121 energy= -0.451139565885795 occ= 2
+MO #122 energy= -0.44683421118723  occ= 2
+MO #123 energy= -0.445074085721046 occ= 2
+MO #124 energy= -0.44261266599069  occ= 2
+MO #125 energy= -0.441211115605129 occ= 2
+MO #126 energy= -0.440610984158243 occ= 2
+MO #127 energy= -0.434741823200174 occ= 2
+MO #128 energy= -0.433906713803451 occ= 2
+MO #129 energy= -0.43271501325876  occ= 2
+MO #130 energy= -0.432518399454349 occ= 2
+MO #131 energy= -0.429937225644047 occ= 2
+MO #132 energy= -0.426549624137867 occ= 2
+MO #133 energy= -0.425025839111328 occ= 2
+MO #134 energy= -0.423128153332681 occ= 2
+MO #135 energy= -0.416711433133394 occ= 2
+MO #136 energy= -0.415250169947087 occ= 2
+MO #137 energy= -0.410334551388261 occ= 2
+MO #138 energy= -0.406486001904343 occ= 2
+MO #139 energy= -0.403843812977959 occ= 2
+MO #140 energy= -0.400675303241622 occ= 2
+MO #141 energy= -0.39868361694745  occ= 2
+MO #142 energy= -0.398229875056137 occ= 2
+MO #143 energy= -0.395349221901148 occ= 2
+MO #144 energy= -0.391241144321402 occ= 2
+MO #145 energy= -0.389416806902827 occ= 2
+MO #146 energy= -0.388679748063147 occ= 2
+MO #147 energy= -0.386239429282886 occ= 2
+MO #148 energy= -0.38455540856019  occ= 2
+MO #149 energy= -0.383285744205427 occ= 2
+MO #150 energy= -0.382688714129023 occ= 2
+MO #151 energy= -0.380913821996471 occ= 2
+MO #152 energy= -0.377017857712445 occ= 2
+MO #153 energy= -0.375212093796781 occ= 2
+MO #154 energy= -0.372794558728026 occ= 2
+MO #155 energy= -0.370419892908064 occ= 2
+MO #156 energy= -0.368067039186014 occ= 2
+MO #157 energy= -0.367522226903088 occ= 2
+MO #158 energy= -0.36712508800595  occ= 2
+MO #159 energy= -0.365016746970282 occ= 2
+MO #160 energy= -0.363259688317154 occ= 2
+MO #161 energy= -0.35949778020387  occ= 2
+MO #162 energy= -0.358812313191143 occ= 2
+MO #163 energy= -0.357704639844533 occ= 2
+MO #164 energy= -0.356641857358687 occ= 2
+MO #165 energy= -0.354644425775106 occ= 2
+MO #166 energy= -0.349242062543922 occ= 2
+MO #167 energy= -0.345900390542577 occ= 2
+MO #168 energy= -0.341580824463638 occ= 2
+MO #169 energy= -0.340577844691103 occ= 2
+MO #170 energy= -0.338191568295814 occ= 2
+MO #171 energy= -0.337035498115788 occ= 2
+MO #172 energy= -0.335472759910749 occ= 2
+MO #173 energy= -0.332615635849049 occ= 2
+MO #174 energy= -0.332519738099458 occ= 2
+MO #175 energy= -0.330416251334474 occ= 2
+MO #176 energy= -0.326789082510862 occ= 2
+MO #177 energy= -0.325895335949083 occ= 2
+MO #178 energy= -0.324286208202269 occ= 2
+MO #179 energy= -0.323404523187898 occ= 2
+MO #180 energy= -0.319575943506449 occ= 2
+MO #181 energy= -0.31794176058337  occ= 2
+MO #182 energy= -0.317134325523201 occ= 2
+MO #183 energy= -0.314604255819692 occ= 2
+MO #184 energy= -0.312937454958226 occ= 2
+MO #185 energy= -0.308396658813392 occ= 2
+MO #186 energy= -0.306279129541963 occ= 2
+MO #187 energy= -0.300895387754199 occ= 2
+MO #188 energy= -0.298288837013179 occ= 2
+MO #189 energy= -0.293917529557159 occ= 2
+MO #190 energy= -0.288738143500276 occ= 2
+MO #191 energy= -0.272194020919156 occ= 2
+MO #192 energy= -0.257900621587126 occ= 2
+MO #193 energy= -0.24831458722492  occ= 2
+MO #194 energy= -0.239025937296642 occ= 2
+MO #195 energy= -0.237825534406958 occ= 2
+MO #196 energy= -0.226812792089354 occ= 2
+MO #197 energy= -0.224700385839164 occ= 2
+MO #198 energy= -0.215781691965021 occ= 2
+MO #199 energy= -0.0366225597245759 occ= 0
+MO #200 energy= -0.0263849476696776 occ= 0
+MO #201 energy= -0.013466015232394 occ= 0
+MO #202 energy= -0.00271183908580979 occ= 0
+MO #203 energy= -0.00152253983793779 occ= 0
+MO #204 energy= 0.0124201171553826 occ= 0
+MO #205 energy= 0.0190198651241758 occ= 0
+MO #206 energy= 0.0285865326856496 occ= 0
+MO #207 energy= 0.0379797882017606 occ= 0
+MO #208 energy= 0.0444056724665846 occ= 0
+MO #209 energy= 0.0538148492642755 occ= 0
+MO #210 energy= 0.0581138865574176 occ= 0
+MO #211 energy= 0.0600193290326786 occ= 0
+MO #212 energy= 0.0649187324107485 occ= 0
+MO #213 energy= 0.0709558817958055 occ= 0
+MO #214 energy= 0.0747369514442123 occ= 0
+MO #215 energy= 0.0788518849260315 occ= 0
+MO #216 energy= 0.0871375715430542 occ= 0
+MO #217 energy= 0.0911596763047128 occ= 0
+MO #218 energy= 0.0943089540824918 occ= 0
+MO #219 energy= 0.095574120045972  occ= 0
+MO #220 energy= 0.0980697261139529 occ= 0
+MO #221 energy= 0.101536921580437  occ= 0
+MO #222 energy= 0.103444405921843  occ= 0
+MO #223 energy= 0.104486429316313  occ= 0
+MO #224 energy= 0.105221652383945  occ= 0
+MO #225 energy= 0.108555313276815  occ= 0
+MO #226 energy= 0.108915280049032  occ= 0
+MO #227 energy= 0.111110816182854  occ= 0
+MO #228 energy= 0.112771476095458  occ= 0
+MO #229 energy= 0.1141184478058    occ= 0
+MO #230 energy= 0.115730264800224  occ= 0
+MO #231 energy= 0.11797505377309   occ= 0
+MO #232 energy= 0.119071985776245  occ= 0
+MO #233 energy= 0.120589169502438  occ= 0
+MO #234 energy= 0.123442070691487  occ= 0
+MO #235 energy= 0.126152774176589  occ= 0
+MO #236 energy= 0.127946859935214  occ= 0
+MO #237 energy= 0.129425552427846  occ= 0
+MO #238 energy= 0.133328564590521  occ= 0
+MO #239 energy= 0.136665479534948  occ= 0
+MO #240 energy= 0.1375513439169    occ= 0
+MO #241 energy= 0.138683095236994  occ= 0
+MO #242 energy= 0.140263629496182  occ= 0
+MO #243 energy= 0.141927857190186  occ= 0
+MO #244 energy= 0.145199233376889  occ= 0
+MO #245 energy= 0.1460115232677    occ= 0
+MO #246 energy= 0.147678294252862  occ= 0
+MO #247 energy= 0.150493301146076  occ= 0
+MO #248 energy= 0.152153374209753  occ= 0
+MO #249 energy= 0.158037103657756  occ= 0
+MO #250 energy= 0.159807605771652  occ= 0
+MO #251 energy= 0.16212041561993   occ= 0
+MO #252 energy= 0.163645129825812  occ= 0
+MO #253 energy= 0.165741628571459  occ= 0
+MO #254 energy= 0.168567111560829  occ= 0
+MO #255 energy= 0.171201288299155  occ= 0
+MO #256 energy= 0.174095078328884  occ= 0
+MO #257 energy= 0.174612143933881  occ= 0
+MO #258 energy= 0.176718055057698  occ= 0
+MO #259 energy= 0.179601444353758  occ= 0
+MO #260 energy= 0.180603056088061  occ= 0
+MO #261 energy= 0.182281967340965  occ= 0
+MO #262 energy= 0.182921761550771  occ= 0
+MO #263 energy= 0.183680112829333  occ= 0
+MO #264 energy= 0.185398327091331  occ= 0
+MO #265 energy= 0.185813063674291  occ= 0
+MO #266 energy= 0.188038113657314  occ= 0
+MO #267 energy= 0.190476059458909  occ= 0
+MO #268 energy= 0.192856446210707  occ= 0
+MO #269 energy= 0.194436218391878  occ= 0
+MO #270 energy= 0.197763463398685  occ= 0
+MO #271 energy= 0.201092389467814  occ= 0
+MO #272 energy= 0.202577614900457  occ= 0
+MO #273 energy= 0.203722002526989  occ= 0
+MO #274 energy= 0.204712042506275  occ= 0
+MO #275 energy= 0.206791796437125  occ= 0
+MO #276 energy= 0.208381983258116  occ= 0
+MO #277 energy= 0.211605316614485  occ= 0
+MO #278 energy= 0.214752807413155  occ= 0
+MO #279 energy= 0.215804159899496  occ= 0
+MO #280 energy= 0.218271564257251  occ= 0
+MO #281 energy= 0.221254094292161  occ= 0
+MO #282 energy= 0.22241180507504   occ= 0
+MO #283 energy= 0.22366669045884   occ= 0
+MO #284 energy= 0.226401771876983  occ= 0
+MO #285 energy= 0.229982350809027  occ= 0
+MO #286 energy= 0.232572805471585  occ= 0
+MO #287 energy= 0.234797057714975  occ= 0
+MO #288 energy= 0.238285628024998  occ= 0
+MO #289 energy= 0.241268020026373  occ= 0
+MO #290 energy= 0.244145217972177  occ= 0
+MO #291 energy= 0.249020806900288  occ= 0
+MO #292 energy= 0.250007400351312  occ= 0
+MO #293 energy= 0.252074776850925  occ= 0
+MO #294 energy= 0.258652734136639  occ= 0
+MO #295 energy= 0.259770858730664  occ= 0
+MO #296 energy= 0.260820609679373  occ= 0
+MO #297 energy= 0.265682719991899  occ= 0
+MO #298 energy= 0.273989536346582  occ= 0
+MO #299 energy= 0.275108732867178  occ= 0
+MO #300 energy= 0.280948517896584  occ= 0
+MO #301 energy= 0.285588296173181  occ= 0
+MO #302 energy= 0.288837877232926  occ= 0
+MO #303 energy= 0.28976239339499   occ= 0
+MO #304 energy= 0.294453312504287  occ= 0
+MO #305 energy= 0.299820265063361  occ= 0
+MO #306 energy= 0.30181839365977   occ= 0
+MO #307 energy= 0.310598879030615  occ= 0
+MO #308 energy= 0.31340501550224   occ= 0
+MO #309 energy= 0.315074420158459  occ= 0
+MO #310 energy= 0.320126719935171  occ= 0
+MO #311 energy= 0.320902212734404  occ= 0
+MO #312 energy= 0.324270062607145  occ= 0
+MO #313 energy= 0.328575088222753  occ= 0
+MO #314 energy= 0.329691609590114  occ= 0
+MO #315 energy= 0.335617696977577  occ= 0
+MO #316 energy= 0.337134105323466  occ= 0
+MO #317 energy= 0.341528114731264  occ= 0
+MO #318 energy= 0.342616032566958  occ= 0
+MO #319 energy= 0.3470888707882    occ= 0
+MO #320 energy= 0.352421832115726  occ= 0
+MO #321 energy= 0.36188014159287   occ= 0
+MO #322 energy= 0.364486297385424  occ= 0
+MO #323 energy= 0.366571812187418  occ= 0
+MO #324 energy= 0.371020043928443  occ= 0
+MO #325 energy= 0.373332586518582  occ= 0
+MO #326 energy= 0.382075018464508  occ= 0
+MO #327 energy= 0.391093088420512  occ= 0
+MO #328 energy= 0.391610987836799  occ= 0
+MO #329 energy= 0.395218433026351  occ= 0
+MO #330 energy= 0.396188371152551  occ= 0
+MO #331 energy= 0.400873626060424  occ= 0
+MO #332 energy= 0.403215230882414  occ= 0
+MO #333 energy= 0.405522620692554  occ= 0
+MO #334 energy= 0.406626342091767  occ= 0
+MO #335 energy= 0.408909199707069  occ= 0
+MO #336 energy= 0.412650303215355  occ= 0
+MO #337 energy= 0.419506128112649  occ= 0
+MO #338 energy= 0.422943945032329  occ= 0
+MO #339 energy= 0.424153782496294  occ= 0
+MO #340 energy= 0.427977317047111  occ= 0
+MO #341 energy= 0.430146620415737  occ= 0
+MO #342 energy= 0.436159826719505  occ= 0
+MO #343 energy= 0.437399273016289  occ= 0
+MO #344 energy= 0.443895690394265  occ= 0
+MO #345 energy= 0.445776733109463  occ= 0
+MO #346 energy= 0.447885351965254  occ= 0
+MO #347 energy= 0.452305560135691  occ= 0
+MO #348 energy= 0.453834153859397  occ= 0
+MO #349 energy= 0.457509598547917  occ= 0
+MO #350 energy= 0.45934966976249   occ= 0
+MO #351 energy= 0.461727643865866  occ= 0
+MO #352 energy= 0.464767154800879  occ= 0
+MO #353 energy= 0.466302698082679  occ= 0
+MO #354 energy= 0.467442558573594  occ= 0
+MO #355 energy= 0.474125839012593  occ= 0
+MO #356 energy= 0.475133435195329  occ= 0
+MO #357 energy= 0.47622466147572   occ= 0
+MO #358 energy= 0.478547845827693  occ= 0
+MO #359 energy= 0.478993413214071  occ= 0
+MO #360 energy= 0.483159049806323  occ= 0
+MO #361 energy= 0.48557085344858   occ= 0
+MO #362 energy= 0.48869931987819   occ= 0
+MO #363 energy= 0.497295161092907  occ= 0
+MO #364 energy= 0.499845999649425  occ= 0
+MO #365 energy= 0.503195988458398  occ= 0
+MO #366 energy= 0.508004113764086  occ= 0
+MO #367 energy= 0.508608080928877  occ= 0
+MO #368 energy= 0.517130989318121  occ= 0
+MO #369 energy= 0.520929807390777  occ= 0
+MO #370 energy= 0.525354724690125  occ= 0
+MO #371 energy= 0.526689126427271  occ= 0
+MO #372 energy= 0.541436922866517  occ= 0
+MO #373 energy= 0.54625924786764   occ= 0
+MO #374 energy= 0.547159409228741  occ= 0
+MO #375 energy= 0.549949476957984  occ= 0
+MO #376 energy= 0.555957583150525  occ= 0
+MO #377 energy= 0.560206214674564  occ= 0
+MO #378 energy= 0.561399670344675  occ= 0
+MO #379 energy= 0.570592043792413  occ= 0
+MO #380 energy= 0.572451176672392  occ= 0
+MO #381 energy= 0.575681308762882  occ= 0
+MO #382 energy= 0.575971397488241  occ= 0
+MO #383 energy= 0.581610416785047  occ= 0
+MO #384 energy= 0.583823373737645  occ= 0
+MO #385 energy= 0.588211641606122  occ= 0
+MO #386 energy= 0.588896065956477  occ= 0
+MO #387 energy= 0.592106802645684  occ= 0
+MO #388 energy= 0.593407038030701  occ= 0
+MO #389 energy= 0.593762960391217  occ= 0
+MO #390 energy= 0.598603698218162  occ= 0
+MO #391 energy= 0.59909722330352   occ= 0
+MO #392 energy= 0.602934451248783  occ= 0
+MO #393 energy= 0.604983700936365  occ= 0
+MO #394 energy= 0.60670635328836   occ= 0
+MO #395 energy= 0.609088711900038  occ= 0
+MO #396 energy= 0.611883337072131  occ= 0
+MO #397 energy= 0.614110550205697  occ= 0
+MO #398 energy= 0.615529322259603  occ= 0
+MO #399 energy= 0.617749685233312  occ= 0
+MO #400 energy= 0.619107521600723  occ= 0
+MO #401 energy= 0.624763685634715  occ= 0
+MO #402 energy= 0.625750564610091  occ= 0
+MO #403 energy= 0.62740123371195   occ= 0
+MO #404 energy= 0.628914242610416  occ= 0
+MO #405 energy= 0.631320560957989  occ= 0
+MO #406 energy= 0.632738964291113  occ= 0
+MO #407 energy= 0.635530132054003  occ= 0
+MO #408 energy= 0.636008034565618  occ= 0
+MO #409 energy= 0.638880102628411  occ= 0
+MO #410 energy= 0.639542835847739  occ= 0
+MO #411 energy= 0.640137784907108  occ= 0
+MO #412 energy= 0.641493799991191  occ= 0
+MO #413 energy= 0.641986246915977  occ= 0
+MO #414 energy= 0.644809562389375  occ= 0
+MO #415 energy= 0.645040688822686  occ= 0
+MO #416 energy= 0.646779642278127  occ= 0
+MO #417 energy= 0.648774860138019  occ= 0
+MO #418 energy= 0.649290021199432  occ= 0
+MO #419 energy= 0.651078352971968  occ= 0
+MO #420 energy= 0.655611678695618  occ= 0
+MO #421 energy= 0.656820804455319  occ= 0
+MO #422 energy= 0.658184791632935  occ= 0
+MO #423 energy= 0.658652898497821  occ= 0
+MO #424 energy= 0.659512643741473  occ= 0
+MO #425 energy= 0.662215836847365  occ= 0
+MO #426 energy= 0.66239902464585   occ= 0
+MO #427 energy= 0.663499619383704  occ= 0
+MO #428 energy= 0.66445507876931   occ= 0
+MO #429 energy= 0.667360093381903  occ= 0
+MO #430 energy= 0.669058863852538  occ= 0
+MO #431 energy= 0.67005243431689   occ= 0
+MO #432 energy= 0.671827851351047  occ= 0
+MO #433 energy= 0.672643199405969  occ= 0
+MO #434 energy= 0.674795421809776  occ= 0
+MO #435 energy= 0.675745918291627  occ= 0
+MO #436 energy= 0.678341869253078  occ= 0
+MO #437 energy= 0.680621854381794  occ= 0
+MO #438 energy= 0.681270815807584  occ= 0
+MO #439 energy= 0.682459327865023  occ= 0
+MO #440 energy= 0.684194871186447  occ= 0
+MO #441 energy= 0.685116368966407  occ= 0
+MO #442 energy= 0.686179565875401  occ= 0
+MO #443 energy= 0.689064578154047  occ= 0
+MO #444 energy= 0.690963378814302  occ= 0
+MO #445 energy= 0.692571694020576  occ= 0
+MO #446 energy= 0.694769622595381  occ= 0
+MO #447 energy= 0.697144095701196  occ= 0
+MO #448 energy= 0.697364180140186  occ= 0
+MO #449 energy= 0.697838269191563  occ= 0
+MO #450 energy= 0.699807045203483  occ= 0
+MO #451 energy= 0.700959125386987  occ= 0
+MO #452 energy= 0.702476078332211  occ= 0
+MO #453 energy= 0.70273378519357   occ= 0
+MO #454 energy= 0.705041112922933  occ= 0
+MO #455 energy= 0.706329176777224  occ= 0
+MO #456 energy= 0.708936953290513  occ= 0
+MO #457 energy= 0.710349796842905  occ= 0
+MO #458 energy= 0.712257868300581  occ= 0
+MO #459 energy= 0.713511797866329  occ= 0
+MO #460 energy= 0.714134639527892  occ= 0
+MO #461 energy= 0.71468599247279   occ= 0
+MO #462 energy= 0.71627452815599   occ= 0
+MO #463 energy= 0.718111699460875  occ= 0
+MO #464 energy= 0.720156100800834  occ= 0
+MO #465 energy= 0.722980197364269  occ= 0
+MO #466 energy= 0.723589516670627  occ= 0
+MO #467 energy= 0.724951743211465  occ= 0
+MO #468 energy= 0.72602865372738   occ= 0
+MO #469 energy= 0.727966793181115  occ= 0
+MO #470 energy= 0.731045043596847  occ= 0
+MO #471 energy= 0.731424354629754  occ= 0
+MO #472 energy= 0.734771843148272  occ= 0
+MO #473 energy= 0.735978417131699  occ= 0
+MO #474 energy= 0.737284473082916  occ= 0
+MO #475 energy= 0.739411722550362  occ= 0
+MO #476 energy= 0.740378042770704  occ= 0
+MO #477 energy= 0.741718599084983  occ= 0
+MO #478 energy= 0.742986036053197  occ= 0
+MO #479 energy= 0.745635074900804  occ= 0
+MO #480 energy= 0.748749093337535  occ= 0
+MO #481 energy= 0.750489883735408  occ= 0
+MO #482 energy= 0.753504202901023  occ= 0
+MO #483 energy= 0.756686869164971  occ= 0
+MO #484 energy= 0.758632075361116  occ= 0
+MO #485 energy= 0.75977975872594   occ= 0
+MO #486 energy= 0.760410833683457  occ= 0
+MO #487 energy= 0.761500205448569  occ= 0
+MO #488 energy= 0.762922423818081  occ= 0
+MO #489 energy= 0.767344182492045  occ= 0
+MO #490 energy= 0.770101476432668  occ= 0
+MO #491 energy= 0.772671092962213  occ= 0
+MO #492 energy= 0.773397294386913  occ= 0
+MO #493 energy= 0.777768757683007  occ= 0
+MO #494 energy= 0.77841541655355   occ= 0
+MO #495 energy= 0.779946084907857  occ= 0
+MO #496 energy= 0.786398082895124  occ= 0
+MO #497 energy= 0.787509711204949  occ= 0
+MO #498 energy= 0.791675018976513  occ= 0
+MO #499 energy= 0.793152325977148  occ= 0
+MO #500 energy= 0.796176643642977  occ= 0
+MO #501 energy= 0.798514177908509  occ= 0
+MO #502 energy= 0.801873325775116  occ= 0
+MO #503 energy= 0.802308682242974  occ= 0
+MO #504 energy= 0.806980567332072  occ= 0
+MO #505 energy= 0.815007474240252  occ= 0
+MO #506 energy= 0.815064555439078  occ= 0
+MO #507 energy= 0.822221629016108  occ= 0
+MO #508 energy= 0.823915575192215  occ= 0
+MO #509 energy= 0.825379702595061  occ= 0
+MO #510 energy= 0.83155577410122   occ= 0
+MO #511 energy= 0.840236231117518  occ= 0
+MO #512 energy= 0.840999616208521  occ= 0
+MO #513 energy= 0.848739656335578  occ= 0
+MO #514 energy= 0.851368609395008  occ= 0
+MO #515 energy= 0.853909351414469  occ= 0
+MO #516 energy= 0.856548924958742  occ= 0
+MO #517 energy= 0.864058408375072  occ= 0
+MO #518 energy= 0.865494192573977  occ= 0
+MO #519 energy= 0.867213126096637  occ= 0
+MO #520 energy= 0.870248749585568  occ= 0
+MO #521 energy= 0.872212601688138  occ= 0
+MO #522 energy= 0.875162008093806  occ= 0
+MO #523 energy= 0.883668441837654  occ= 0
+MO #524 energy= 0.88788219923325   occ= 0
+MO #525 energy= 0.890328569472046  occ= 0
+MO #526 energy= 0.893700956931488  occ= 0
+MO #527 energy= 0.898194778225583  occ= 0
+MO #528 energy= 0.909306407764712  occ= 0
+MO #529 energy= 0.913946480729504  occ= 0
+MO #530 energy= 0.914973574113206  occ= 0
+MO #531 energy= 0.920523513186121  occ= 0
+MO #532 energy= 0.937896252448101  occ= 0
+MO #533 energy= 0.938130274464864  occ= 0
+MO #534 energy= 0.946186182730965  occ= 0
+MO #535 energy= 0.948258997429604  occ= 0
+MO #536 energy= 0.957602431812147  occ= 0
+MO #537 energy= 0.958313658647333  occ= 0
+MO #538 energy= 0.970828088908325  occ= 0
+MO #539 energy= 0.975623083956348  occ= 0
+MO #540 energy= 0.984608999607629  occ= 0
+MO #541 energy= 0.990235939541028  occ= 0
+MO #542 energy= 0.997590331363638  occ= 0
+MO #543 energy= 1.00734064455564   occ= 0
+MO #544 energy= 1.00911509480603   occ= 0
+MO #545 energy= 1.015535437467     occ= 0
+MO #546 energy= 1.0191190942153    occ= 0
+MO #547 energy= 1.02112308451204   occ= 0
+MO #548 energy= 1.02806315156092   occ= 0
+MO #549 energy= 1.0332276475405    occ= 0
+MO #550 energy= 1.03588540418838   occ= 0
+MO #551 energy= 1.04357582480726   occ= 0
+MO #552 energy= 1.04891312212975   occ= 0
+MO #553 energy= 1.05384934941627   occ= 0
+MO #554 energy= 1.0604553134018    occ= 0
+MO #555 energy= 1.06641472243337   occ= 0
+MO #556 energy= 1.06683119110386   occ= 0
+MO #557 energy= 1.06871477327669   occ= 0
+MO #558 energy= 1.07349218516121   occ= 0
+MO #559 energy= 1.08608869724462   occ= 0
+MO #560 energy= 1.08921982573833   occ= 0
+MO #561 energy= 1.09644116215637   occ= 0
+MO #562 energy= 1.10099368046797   occ= 0
+MO #563 energy= 1.107145714214     occ= 0
+MO #564 energy= 1.12433584482883   occ= 0
+MO #565 energy= 1.12903019968866   occ= 0
+MO #566 energy= 1.13626430790436   occ= 0
+MO #567 energy= 1.13785230514262   occ= 0
+MO #568 energy= 1.14403198926171   occ= 0
+MO #569 energy= 1.14945409306065   occ= 0
+MO #570 energy= 1.15158495533704   occ= 0
+MO #571 energy= 1.15930046637795   occ= 0
+MO #572 energy= 1.16154114369415   occ= 0
+MO #573 energy= 1.16240316691871   occ= 0
+MO #574 energy= 1.16518131911806   occ= 0
+MO #575 energy= 1.16863566816786   occ= 0
+MO #576 energy= 1.17711399681055   occ= 0
+MO #577 energy= 1.18027460902959   occ= 0
+MO #578 energy= 1.19487785766636   occ= 0
+MO #579 energy= 1.19834502182071   occ= 0
+MO #580 energy= 1.20818351160882   occ= 0
+MO #581 energy= 1.21623190376459   occ= 0
+MO #582 energy= 1.21701888676713   occ= 0
+MO #583 energy= 1.2229851374378    occ= 0
+MO #584 energy= 1.22653534142821   occ= 0
+MO #585 energy= 1.23326897975496   occ= 0
+MO #586 energy= 1.2403384001025    occ= 0
+MO #587 energy= 1.2468828819225    occ= 0
+MO #588 energy= 1.24925850072301   occ= 0
+MO #589 energy= 1.25348253680177   occ= 0
+MO #590 energy= 1.25954466560783   occ= 0
+MO #591 energy= 1.26545587260839   occ= 0
+MO #592 energy= 1.26957566742821   occ= 0
+MO #593 energy= 1.27459891560946   occ= 0
+MO #594 energy= 1.27997476594333   occ= 0
+MO #595 energy= 1.28224342580908   occ= 0
+MO #596 energy= 1.28714586239282   occ= 0
+MO #597 energy= 1.29170288669891   occ= 0
+MO #598 energy= 1.29200550055608   occ= 0
+MO #599 energy= 1.29452592209794   occ= 0
+MO #600 energy= 1.29650920771058   occ= 0
+MO #601 energy= 1.29862496231921   occ= 0
+MO #602 energy= 1.30366989449735   occ= 0
+MO #603 energy= 1.30740575613198   occ= 0
+MO #604 energy= 1.30835512264774   occ= 0
+MO #605 energy= 1.31309899540959   occ= 0
+MO #606 energy= 1.31831115645419   occ= 0
+MO #607 energy= 1.32256705166387   occ= 0
+MO #608 energy= 1.3277144920122    occ= 0
+MO #609 energy= 1.33072689789633   occ= 0
+MO #610 energy= 1.33692198854303   occ= 0
+MO #611 energy= 1.33971180809131   occ= 0
+MO #612 energy= 1.34204855900939   occ= 0
+MO #613 energy= 1.3476729236659    occ= 0
+MO #614 energy= 1.35165854354231   occ= 0
+MO #615 energy= 1.3608580446781    occ= 0
+MO #616 energy= 1.3655383344433    occ= 0
+MO #617 energy= 1.37032678720337   occ= 0
+MO #618 energy= 1.37569500458059   occ= 0
+MO #619 energy= 1.37850564897145   occ= 0
+MO #620 energy= 1.39358335286802   occ= 0
+MO #621 energy= 1.3956148193314    occ= 0
+MO #622 energy= 1.39917002539206   occ= 0
+MO #623 energy= 1.40416081342088   occ= 0
+MO #624 energy= 1.40702497208085   occ= 0
+MO #625 energy= 1.41106195478478   occ= 0
+MO #626 energy= 1.41797439811358   occ= 0
+MO #627 energy= 1.42962989817306   occ= 0
+MO #628 energy= 1.43806070488622   occ= 0
+MO #629 energy= 1.44957848967526   occ= 0
+MO #630 energy= 1.45345099683895   occ= 0
+MO #631 energy= 1.46295613634577   occ= 0
+MO #632 energy= 1.47458239890936   occ= 0
+MO #633 energy= 1.48316213958241   occ= 0
+MO #634 energy= 1.48594320963637   occ= 0
+MO #635 energy= 1.49613553273032   occ= 0
+MO #636 energy= 1.49936459417631   occ= 0
+MO #637 energy= 1.50755052282947   occ= 0
+MO #638 energy= 1.51737317910975   occ= 0
+MO #639 energy= 1.52445155756383   occ= 0
+MO #640 energy= 1.53630500372367   occ= 0
+MO #641 energy= 1.53782715021761   occ= 0
+MO #642 energy= 1.53862896417249   occ= 0
+MO #643 energy= 1.54374934795357   occ= 0
+MO #644 energy= 1.54501006034341   occ= 0
+MO #645 energy= 1.54704391432431   occ= 0
+MO #646 energy= 1.54941999802844   occ= 0
+MO #647 energy= 1.54961009644782   occ= 0
+MO #648 energy= 1.55091890621145   occ= 0
+MO #649 energy= 1.55161982344536   occ= 0
+MO #650 energy= 1.55349319369587   occ= 0
+MO #651 energy= 1.55517757420875   occ= 0
+MO #652 energy= 1.55788475705751   occ= 0
+MO #653 energy= 1.55862044467848   occ= 0
+MO #654 energy= 1.56593817712513   occ= 0
+MO #655 energy= 1.56774320028239   occ= 0
+MO #656 energy= 1.57011742311233   occ= 0
+MO #657 energy= 1.57199976378813   occ= 0
+MO #658 energy= 1.57543499862843   occ= 0
+MO #659 energy= 1.57635321227198   occ= 0
+MO #660 energy= 1.57837098453558   occ= 0
+MO #661 energy= 1.57958142410341   occ= 0
+MO #662 energy= 1.58163316072293   occ= 0
+MO #663 energy= 1.58539191434595   occ= 0
+MO #664 energy= 1.59045245383618   occ= 0
+MO #665 energy= 1.59286766075252   occ= 0
+MO #666 energy= 1.60478189198341   occ= 0
+MO #667 energy= 1.62005296467177   occ= 0
+MO #668 energy= 1.62517900125837   occ= 0
+MO #669 energy= 1.63266220656287   occ= 0
+MO #670 energy= 1.64420858553746   occ= 0
+MO #671 energy= 1.64832168062045   occ= 0
+MO #672 energy= 1.65625394593366   occ= 0
+MO #673 energy= 1.65776170075923   occ= 0
+MO #674 energy= 1.66857350032155   occ= 0
+MO #675 energy= 1.674328838616     occ= 0
+MO #676 energy= 1.67881375207121   occ= 0
+MO #677 energy= 1.68217218636868   occ= 0
+MO #678 energy= 1.68697984303356   occ= 0
+MO #679 energy= 1.68912280449105   occ= 0
+MO #680 energy= 1.69217573721588   occ= 0
+MO #681 energy= 1.69488749663555   occ= 0
+MO #682 energy= 1.69998820986888   occ= 0
+MO #683 energy= 1.7017462291913    occ= 0
+MO #684 energy= 1.7043364354325    occ= 0
+MO #685 energy= 1.70611332810299   occ= 0
+MO #686 energy= 1.70992838333405   occ= 0
+MO #687 energy= 1.7112899404686    occ= 0
+MO #688 energy= 1.7159281166426    occ= 0
+MO #689 energy= 1.7168546828707    occ= 0
+MO #690 energy= 1.71860916123909   occ= 0
+MO #691 energy= 1.72051890357971   occ= 0
+MO #692 energy= 1.72307776313731   occ= 0
+MO #693 energy= 1.72933815674579   occ= 0
+MO #694 energy= 1.7322102064822    occ= 0
+MO #695 energy= 1.73412838138701   occ= 0
+MO #696 energy= 1.73818202549177   occ= 0
+MO #697 energy= 1.74184625770779   occ= 0
+MO #698 energy= 1.74307800005742   occ= 0
+MO #699 energy= 1.74719300263479   occ= 0
+MO #700 energy= 1.75042015860712   occ= 0
+MO #701 energy= 1.75328993778563   occ= 0
+MO #702 energy= 1.75743553593007   occ= 0
+MO #703 energy= 1.75991739269817   occ= 0
+MO #704 energy= 1.76276114912555   occ= 0
+MO #705 energy= 1.76526173953283   occ= 0
+MO #706 energy= 1.76717645790445   occ= 0
+MO #707 energy= 1.77042032832963   occ= 0
+MO #708 energy= 1.77152331913464   occ= 0
+MO #709 energy= 1.77717874163348   occ= 0
+MO #710 energy= 1.78031829415795   occ= 0
+MO #711 energy= 1.78207365986411   occ= 0
+MO #712 energy= 1.78628241601056   occ= 0
+MO #713 energy= 1.78937617592471   occ= 0
+MO #714 energy= 1.79224248499002   occ= 0
+MO #715 energy= 1.79545492123547   occ= 0
+MO #716 energy= 1.80039877332315   occ= 0
+MO #717 energy= 1.80730288817333   occ= 0
+MO #718 energy= 1.8103887085853    occ= 0
+MO #719 energy= 1.8124007468923    occ= 0
+MO #720 energy= 1.81485694136474   occ= 0
+MO #721 energy= 1.81680210653819   occ= 0
+MO #722 energy= 1.82231521247835   occ= 0
+MO #723 energy= 1.82694593114227   occ= 0
+MO #724 energy= 1.83046264424724   occ= 0
+MO #725 energy= 1.83142216728981   occ= 0
+MO #726 energy= 1.83375203072992   occ= 0
+MO #727 energy= 1.83433092323169   occ= 0
+MO #728 energy= 1.83685134981539   occ= 0
+MO #729 energy= 1.84020763416211   occ= 0
+MO #730 energy= 1.84144386383903   occ= 0
+MO #731 energy= 1.84227100302446   occ= 0
+MO #732 energy= 1.84395302924126   occ= 0
+MO #733 energy= 1.84496296675124   occ= 0
+MO #734 energy= 1.84807612558805   occ= 0
+MO #735 energy= 1.84900800926782   occ= 0
+MO #736 energy= 1.85034031420571   occ= 0
+MO #737 energy= 1.85078574250576   occ= 0
+MO #738 energy= 1.85371628956924   occ= 0
+MO #739 energy= 1.85634390372807   occ= 0
+MO #740 energy= 1.85764650268813   occ= 0
+MO #741 energy= 1.85964632767763   occ= 0
+MO #742 energy= 1.86048348053285   occ= 0
+MO #743 energy= 1.86136617603633   occ= 0
+MO #744 energy= 1.86251424933142   occ= 0
+MO #745 energy= 1.86405373962673   occ= 0
+MO #746 energy= 1.86672864112389   occ= 0
+MO #747 energy= 1.86809808120923   occ= 0
+MO #748 energy= 1.87212049704569   occ= 0
+MO #749 energy= 1.87340708118612   occ= 0
+MO #750 energy= 1.87768258297182   occ= 0
+MO #751 energy= 1.87851705813829   occ= 0
+MO #752 energy= 1.88107500158656   occ= 0
+MO #753 energy= 1.88314236751675   occ= 0
+MO #754 energy= 1.88676944316686   occ= 0
+MO #755 energy= 1.88826824239235   occ= 0
+MO #756 energy= 1.89160309988795   occ= 0
+MO #757 energy= 1.8939643084607    occ= 0
+MO #758 energy= 1.89698138696405   occ= 0
+MO #759 energy= 1.90014731929495   occ= 0
+MO #760 energy= 1.90473513297208   occ= 0
+MO #761 energy= 1.90579242229655   occ= 0
+MO #762 energy= 1.90947437319693   occ= 0
+MO #763 energy= 1.91103147708195   occ= 0
+MO #764 energy= 1.91312194307608   occ= 0
+MO #765 energy= 1.91577030851034   occ= 0
+MO #766 energy= 1.91760026741549   occ= 0
+MO #767 energy= 1.9202709863001    occ= 0
+MO #768 energy= 1.92551173797034   occ= 0
+MO #769 energy= 1.92676234878111   occ= 0
+MO #770 energy= 1.92989856249217   occ= 0
+MO #771 energy= 1.93120673752701   occ= 0
+MO #772 energy= 1.93291107450645   occ= 0
+MO #773 energy= 1.93426300402514   occ= 0
+MO #774 energy= 1.93664660504713   occ= 0
+MO #775 energy= 1.94254252762425   occ= 0
+MO #776 energy= 1.94830663389802   occ= 0
+MO #777 energy= 1.95213889781176   occ= 0
+MO #778 energy= 1.95641924002842   occ= 0
+MO #779 energy= 1.95796846903246   occ= 0
+MO #780 energy= 1.96093387067558   occ= 0
+MO #781 energy= 1.96429006188237   occ= 0
+MO #782 energy= 1.96601025213131   occ= 0
+MO #783 energy= 1.96657739731181   occ= 0
+MO #784 energy= 1.96951594269662   occ= 0
+MO #785 energy= 1.97431779397679   occ= 0
+MO #786 energy= 1.97600019774673   occ= 0
+MO #787 energy= 1.97928227532016   occ= 0
+MO #788 energy= 1.98293661932787   occ= 0
+MO #789 energy= 1.98502366410984   occ= 0
+MO #790 energy= 1.99379703025806   occ= 0
+MO #791 energy= 1.99507065909518   occ= 0
+MO #792 energy= 2.00024019545288   occ= 0
+MO #793 energy= 2.00432109254128   occ= 0
+MO #794 energy= 2.00826555896383   occ= 0
+MO #795 energy= 2.01018251195653   occ= 0
+MO #796 energy= 2.01137367916089   occ= 0
+MO #797 energy= 2.01605933461668   occ= 0
+MO #798 energy= 2.01633261992712   occ= 0
+MO #799 energy= 2.01800549547507   occ= 0
+MO #800 energy= 2.02175901980763   occ= 0
+MO #801 energy= 2.02317712204274   occ= 0
+MO #802 energy= 2.02760564617242   occ= 0
+MO #803 energy= 2.03104037897748   occ= 0
+MO #804 energy= 2.03210804003169   occ= 0
+MO #805 energy= 2.03665194860107   occ= 0
+MO #806 energy= 2.04189346159355   occ= 0
+MO #807 energy= 2.04342610842063   occ= 0
+MO #808 energy= 2.04422583662499   occ= 0
+MO #809 energy= 2.05680326910217   occ= 0
+MO #810 energy= 2.06081197901348   occ= 0
+MO #811 energy= 2.06590519534547   occ= 0
+MO #812 energy= 2.08293557444471   occ= 0
+MO #813 energy= 2.08958460551912   occ= 0
+MO #814 energy= 2.0927866931674    occ= 0
+MO #815 energy= 2.09572494226858   occ= 0
+MO #816 energy= 2.10462046631869   occ= 0
+MO #817 energy= 2.10748987051352   occ= 0
+MO #818 energy= 2.1122050151836    occ= 0
+MO #819 energy= 2.11752955494074   occ= 0
+MO #820 energy= 2.13031589087888   occ= 0
+MO #821 energy= 2.13801571993312   occ= 0
+MO #822 energy= 2.143418153895     occ= 0
+MO #823 energy= 2.14649042371927   occ= 0
+MO #824 energy= 2.15503317859519   occ= 0
+MO #825 energy= 2.16411865085814   occ= 0
+MO #826 energy= 2.16504443907812   occ= 0
+MO #827 energy= 2.16601617736499   occ= 0
+MO #828 energy= 2.17298755858771   occ= 0
+MO #829 energy= 2.17363800103275   occ= 0
+MO #830 energy= 2.17459819193956   occ= 0
+MO #831 energy= 2.17645736605907   occ= 0
+MO #832 energy= 2.17922329929247   occ= 0
+MO #833 energy= 2.19066836647271   occ= 0
+MO #834 energy= 2.19744359283378   occ= 0
+MO #835 energy= 2.19976803010577   occ= 0
+MO #836 energy= 2.20423943943744   occ= 0
+MO #837 energy= 2.2090648055187    occ= 0
+MO #838 energy= 2.21111256644542   occ= 0
+MO #839 energy= 2.21449324224021   occ= 0
+MO #840 energy= 2.21649092166504   occ= 0
+MO #841 energy= 2.21799583150684   occ= 0
+MO #842 energy= 2.21995737036741   occ= 0
+MO #843 energy= 2.22184713864969   occ= 0
+MO #844 energy= 2.22397988525472   occ= 0
+MO #845 energy= 2.22490273557114   occ= 0
+MO #846 energy= 2.22767356852545   occ= 0
+MO #847 energy= 2.23107188665934   occ= 0
+MO #848 energy= 2.23457055410118   occ= 0
+MO #849 energy= 2.24015228337198   occ= 0
+MO #850 energy= 2.24180026880074   occ= 0
+MO #851 energy= 2.24499451587058   occ= 0
+MO #852 energy= 2.25539669360619   occ= 0
+MO #853 energy= 2.26317697866873   occ= 0
+MO #854 energy= 2.26910862659905   occ= 0
+MO #855 energy= 2.27999164848837   occ= 0
+MO #856 energy= 2.29102604950577   occ= 0
+MO #857 energy= 2.30264473356518   occ= 0
+MO #858 energy= 2.30544660971734   occ= 0
+MO #859 energy= 2.30962516938094   occ= 0
+MO #860 energy= 2.3165063601167    occ= 0
+MO #861 energy= 2.32140562408573   occ= 0
+MO #862 energy= 2.32482642650401   occ= 0
+MO #863 energy= 2.3290976475284    occ= 0
+MO #864 energy= 2.33160396157345   occ= 0
+MO #865 energy= 2.3350825081851    occ= 0
+MO #866 energy= 2.33740967837822   occ= 0
+MO #867 energy= 2.33793867122018   occ= 0
+MO #868 energy= 2.34159739666874   occ= 0
+MO #869 energy= 2.34537437990147   occ= 0
+MO #870 energy= 2.35128058423027   occ= 0
+MO #871 energy= 2.35393898483014   occ= 0
+MO #872 energy= 2.36653282835386   occ= 0
+MO #873 energy= 2.37131114440438   occ= 0
+MO #874 energy= 2.37341244337964   occ= 0
+MO #875 energy= 2.37743983959676   occ= 0
+MO #876 energy= 2.38254761250931   occ= 0
+MO #877 energy= 2.38998360973161   occ= 0
+MO #878 energy= 2.39729548637169   occ= 0
+MO #879 energy= 2.40192483339546   occ= 0
+MO #880 energy= 2.40564833794475   occ= 0
+MO #881 energy= 2.40761583844364   occ= 0
+MO #882 energy= 2.41666910803504   occ= 0
+MO #883 energy= 2.4209691021984    occ= 0
+MO #884 energy= 2.42500621595354   occ= 0
+MO #885 energy= 2.4281301434553    occ= 0
+MO #886 energy= 2.43067823065292   occ= 0
+MO #887 energy= 2.43200260255493   occ= 0
+MO #888 energy= 2.43698750310741   occ= 0
+MO #889 energy= 2.44030694676748   occ= 0
+MO #890 energy= 2.44648642441323   occ= 0
+MO #891 energy= 2.4510486727335    occ= 0
+MO #892 energy= 2.45234958870296   occ= 0
+MO #893 energy= 2.46072093091453   occ= 0
+MO #894 energy= 2.46191556487966   occ= 0
+MO #895 energy= 2.46850935899213   occ= 0
+MO #896 energy= 2.47135538172927   occ= 0
+MO #897 energy= 2.47245834168463   occ= 0
+MO #898 energy= 2.47933955349475   occ= 0
+MO #899 energy= 2.48050102580151   occ= 0
+MO #900 energy= 2.48457436697178   occ= 0
+MO #901 energy= 2.48528187648377   occ= 0
+MO #902 energy= 2.49045125313247   occ= 0
+MO #903 energy= 2.49443101168066   occ= 0
+MO #904 energy= 2.50613567581027   occ= 0
+MO #905 energy= 2.50739020449383   occ= 0
+MO #906 energy= 2.50999326916229   occ= 0
+MO #907 energy= 2.51346559505715   occ= 0
+MO #908 energy= 2.52346102253156   occ= 0
+MO #909 energy= 2.53817614260892   occ= 0
+MO #910 energy= 2.55341689304201   occ= 0
+MO #911 energy= 2.55387668315326   occ= 0
+MO #912 energy= 2.55962945189255   occ= 0
+MO #913 energy= 2.56039372264915   occ= 0
+MO #914 energy= 2.57207562060873   occ= 0
+MO #915 energy= 2.57585114655161   occ= 0
+MO #916 energy= 2.57864935624926   occ= 0
+MO #917 energy= 2.57982503087529   occ= 0
+MO #918 energy= 2.5904952023734    occ= 0
+MO #919 energy= 2.59277434663044   occ= 0
+MO #920 energy= 2.60328816995085   occ= 0
+MO #921 energy= 2.60653698780096   occ= 0
+MO #922 energy= 2.60821080382895   occ= 0
+MO #923 energy= 2.61103960003347   occ= 0
+MO #924 energy= 2.61684757878275   occ= 0
+MO #925 energy= 2.61851085512977   occ= 0
+MO #926 energy= 2.62122100126044   occ= 0
+MO #927 energy= 2.63449818581641   occ= 0
+MO #928 energy= 2.6392288648624    occ= 0
+MO #929 energy= 2.64252765889998   occ= 0
+MO #930 energy= 2.64763010176694   occ= 0
+MO #931 energy= 2.6498377787652    occ= 0
+MO #932 energy= 2.65190261031724   occ= 0
+MO #933 energy= 2.65715073346621   occ= 0
+MO #934 energy= 2.66073004519389   occ= 0
+MO #935 energy= 2.66392823852203   occ= 0
+MO #936 energy= 2.66493052074762   occ= 0
+MO #937 energy= 2.66954599567315   occ= 0
+MO #938 energy= 2.67342383245406   occ= 0
+MO #939 energy= 2.67411953185055   occ= 0
+MO #940 energy= 2.67685194813693   occ= 0
+MO #941 energy= 2.68102453394498   occ= 0
+MO #942 energy= 2.68292536374345   occ= 0
+MO #943 energy= 2.68495087660366   occ= 0
+MO #944 energy= 2.68798924205895   occ= 0
+MO #945 energy= 2.69217146368008   occ= 0
+MO #946 energy= 2.69493514098658   occ= 0
+MO #947 energy= 2.69861919096076   occ= 0
+MO #948 energy= 2.70268111159868   occ= 0
+MO #949 energy= 2.70635941684518   occ= 0
+MO #950 energy= 2.70766057795484   occ= 0
+MO #951 energy= 2.71035651685876   occ= 0
+MO #952 energy= 2.7187262250134    occ= 0
+MO #953 energy= 2.71991563587589   occ= 0
+MO #954 energy= 2.7258538637021    occ= 0
+MO #955 energy= 2.72640083629255   occ= 0
+MO #956 energy= 2.73622541320197   occ= 0
+MO #957 energy= 2.75092742941505   occ= 0
+MO #958 energy= 2.75995501197954   occ= 0
+MO #959 energy= 2.77613087084278   occ= 0
+MO #960 energy= 2.78387314723742   occ= 0
+MO #961 energy= 2.79624516463666   occ= 0
+MO #962 energy= 2.81118580521138   occ= 0
+MO #963 energy= 2.81894160986315   occ= 0
+MO #964 energy= 2.82524293394765   occ= 0
+MO #965 energy= 2.83980427841722   occ= 0
+MO #966 energy= 2.84613651707901   occ= 0
+MO #967 energy= 2.84845799913669   occ= 0
+MO #968 energy= 2.85264868825843   occ= 0
+MO #969 energy= 2.85769140675386   occ= 0
+MO #970 energy= 2.86215291177951   occ= 0
+MO #971 energy= 2.86539790501658   occ= 0
+MO #972 energy= 2.86755182389802   occ= 0
+MO #973 energy= 2.87088384007512   occ= 0
+MO #974 energy= 2.87335275169283   occ= 0
+MO #975 energy= 2.87434981519644   occ= 0
+MO #976 energy= 2.88039050949499   occ= 0
+MO #977 energy= 2.8820319092256    occ= 0
+MO #978 energy= 2.88265356535513   occ= 0
+MO #979 energy= 2.88523940747813   occ= 0
+MO #980 energy= 2.88825123338325   occ= 0
+MO #981 energy= 2.88981139683407   occ= 0
+MO #982 energy= 2.89765584725313   occ= 0
+MO #983 energy= 2.90415321105817   occ= 0
+MO #984 energy= 2.90737266235555   occ= 0
+MO #985 energy= 2.91354808351134   occ= 0
+MO #986 energy= 2.91563706453705   occ= 0
+MO #987 energy= 2.91940870784407   occ= 0
+MO #988 energy= 2.9259263121189    occ= 0
+MO #989 energy= 2.92611902223594   occ= 0
+MO #990 energy= 2.92963662814411   occ= 0
+MO #991 energy= 2.94296186987872   occ= 0
+MO #992 energy= 2.94688457185907   occ= 0
+MO #993 energy= 2.94918000250069   occ= 0
+MO #994 energy= 2.95393574925814   occ= 0
+MO #995 energy= 2.95450756884386   occ= 0
+MO #996 energy= 2.96250608213112   occ= 0
+MO #997 energy= 2.9642655697524    occ= 0
+MO #998 energy= 2.97136759105178   occ= 0
+MO #999 energy= 2.97391827352764   occ= 0
+MO #1000 energy= 2.97506457103612   occ= 0
+MO #1001 energy= 2.97774059539276   occ= 0
+MO #1002 energy= 2.98351431435771   occ= 0
+MO #1003 energy= 2.98759402820393   occ= 0
+MO #1004 energy= 2.98976053046423   occ= 0
+MO #1005 energy= 2.99480674674038   occ= 0
+MO #1006 energy= 2.99791520701869   occ= 0
+MO #1007 energy= 3.00190665050435   occ= 0
+MO #1008 energy= 3.00386310777164   occ= 0
+MO #1009 energy= 3.00549413816049   occ= 0
+MO #1010 energy= 3.00829022249572   occ= 0
+MO #1011 energy= 3.01259308024292   occ= 0
+MO #1012 energy= 3.02057951612497   occ= 0
+MO #1013 energy= 3.02535590204228   occ= 0
+MO #1014 energy= 3.02967759717809   occ= 0
+MO #1015 energy= 3.03100917836521   occ= 0
+MO #1016 energy= 3.0371372874596    occ= 0
+MO #1017 energy= 3.04678293458439   occ= 0
+MO #1018 energy= 3.0498156676065    occ= 0
+MO #1019 energy= 3.06160679523457   occ= 0
+MO #1020 energy= 3.06201354504636   occ= 0
+MO #1021 energy= 3.06534409476709   occ= 0
+MO #1022 energy= 3.07937070994794   occ= 0
+MO #1023 energy= 3.09100398799477   occ= 0
+MO #1024 energy= 3.09479910992908   occ= 0
+MO #1025 energy= 3.09599258515678   occ= 0
+MO #1026 energy= 3.10297416090118   occ= 0
+MO #1027 energy= 3.10413334755359   occ= 0
+MO #1028 energy= 3.10734171717296   occ= 0
+MO #1029 energy= 3.1120600144454    occ= 0
+MO #1030 energy= 3.11597723580529   occ= 0
+MO #1031 energy= 3.12734119340737   occ= 0
+MO #1032 energy= 3.13305951985619   occ= 0
+MO #1033 energy= 3.1400003951159    occ= 0
+MO #1034 energy= 3.14992025639      occ= 0
+MO #1035 energy= 3.16007633185277   occ= 0
+MO #1036 energy= 3.1630881103216    occ= 0
+MO #1037 energy= 3.17142317005356   occ= 0
+MO #1038 energy= 3.18766407788504   occ= 0
+MO #1039 energy= 3.22827641359209   occ= 0
+MO #1040 energy= 3.26243796345268   occ= 0
+MO #1041 energy= 3.28883235344953   occ= 0
+MO #1042 energy= 3.3475540394539    occ= 0
+MO #1043 energy= 3.37583375831692   occ= 0
+MO #1044 energy= 3.3767536634865    occ= 0
+MO #1045 energy= 3.40756158701898   occ= 0
+MO #1046 energy= 3.4709134845938    occ= 0
+MO #1047 energy= 3.57019619654948   occ= 0
+MO #1048 energy= 3.58315298603309   occ= 0
+MO #1049 energy= 3.65174588987221   occ= 0
+MO #1050 energy= 3.67954607783851   occ= 0
+MO #1051 energy= 3.71632407515569   occ= 0
+ ** Mulliken atomic charges  **
+charge of  0O =     -0.76539
+charge of  1P =      1.75527
+charge of  2O =     -0.64422
+charge of  3O =     -0.55543
+charge of  4C =      0.16769
+charge of  5C =     -0.00142
+charge of  6C =      0.01107
+charge of  7C =     -0.12152
+charge of  8C =      0.01758
+charge of  9C =      0.07214
+charge of  10C =     -0.28038
+charge of  11C =     -0.28532
+charge of  12C =     -0.27979
+charge of  13C =     -0.13006
+charge of  14C =      0.01470
+charge of  15C =      0.07183
+charge of  16C =     -0.28036
+charge of  17C =     -0.28532
+charge of  18C =     -0.27960
+charge of  19C =     -0.11619
+charge of  20C =     -0.11257
+charge of  21C =      0.00300
+charge of  22C =     -0.00478
+charge of  23C =     -0.16944
+charge of  24C =     -0.15767
+charge of  25C =     -0.15934
+charge of  26C =     -0.16881
+charge of  27C =     -0.02859
+charge of  28C =     -0.02474
+charge of  29C =      0.16248
+charge of  30O =     -0.54372
+charge of  31C =     -0.02392
+charge of  32C =     -0.00105
+charge of  33C =     -0.11893
+charge of  34C =      0.02224
+charge of  35C =      0.07123
+charge of  36C =     -0.28023
+charge of  37C =     -0.28673
+charge of  38C =     -0.28030
+charge of  39C =     -0.12818
+charge of  40C =      0.01500
+charge of  41C =      0.07136
+charge of  42C =     -0.27968
+charge of  43C =     -0.28555
+charge of  44C =     -0.28012
+charge of  45C =     -0.13901
+charge of  46C =     -0.11913
+charge of  47C =      0.00839
+charge of  48C =      0.00414
+charge of  49C =     -0.17805
+charge of  50C =     -0.16338
+charge of  51C =     -0.16063
+charge of  52C =     -0.17046
+charge of  53H =      0.34398
+charge of  54H =      0.09941
+charge of  55H =      0.08769
+charge of  56H =      0.08492
+charge of  57H =      0.09988
+charge of  58H =      0.08921
+charge of  59H =      0.08669
+charge of  60H =      0.09411
+charge of  61H =      0.08630
+charge of  62H =      0.08810
+charge of  63H =      0.09046
+charge of  64H =      0.09263
+charge of  65H =      0.09639
+charge of  66H =      0.09033
+charge of  67H =      0.08400
+charge of  68H =      0.09038
+charge of  69H =      0.08824
+charge of  70H =      0.08990
+charge of  71H =      0.08567
+charge of  72H =      0.09110
+charge of  73H =      0.08895
+charge of  74H =      0.09674
+charge of  75H =      0.10107
+charge of  76H =      0.09948
+charge of  77H =      0.08910
+charge of  78H =      0.08660
+charge of  79H =      0.08385
+charge of  80H =      0.08762
+charge of  81H =      0.07934
+charge of  82H =      0.09551
+charge of  83H =      0.09536
+charge of  84H =      0.11010
+charge of  85H =      0.08776
+charge of  86H =      0.10024
+charge of  87H =      0.08675
+charge of  88H =      0.09840
+charge of  89H =      0.08753
+charge of  90H =      0.09067
+charge of  91H =      0.08720
+charge of  92H =      0.09112
+charge of  93H =      0.08842
+charge of  94H =      0.09547
+charge of  95H =      0.09277
+charge of  96H =      0.08744
+charge of  97H =      0.08800
+charge of  98H =      0.09163
+charge of  99H =      0.09010
+charge of  100H =      0.09102
+charge of  101H =      0.08586
+charge of  102H =      0.08847
+charge of  103H =      0.09499
+charge of  104H =      0.08975
+charge of  105H =      0.10210
+charge of  106H =      0.10150
+charge of  107H =      0.09882
+charge of  108H =      0.08738
+charge of  109H =      0.08624
+charge of  110H =      0.08705
+charge of  111H =      0.08881
+charge of  112H =      0.09248
+charge of  113H =      0.09085
+Dipole moment(X, Y, Z, Debye):  1.88828, -4.35219,  0.33533
+def2-svp b3lyp 274.4812045097351
