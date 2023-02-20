@@ -1,5 +1,5 @@
 # SEMG-MIGNN
-This is a repository for paper "Extrapolative and interpretable reaction performance predic-tion via chemical knowledge-based graph model".
+This is a repository for paper "Extrapolative and interpretable reaction performance prediction via chemical knowledge-based graph model".
 
 # Abstract
 
