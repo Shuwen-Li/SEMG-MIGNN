@@ -9,7 +9,7 @@ Accurate prediction of reactivity and selectivity provides the desired guideline
 
 Embed steric information:
 
-![SEMG_si_spms](https://user-images.githubusercontent.com/71930017/188142934-59d21532-8a1c-4b48-b879-f395664c6790.jpg)
+![SEMG_steric](https://github.com/Shuwen-Li/SEMG-MIGNN/blob/main/picture/SEMG_steric.jpg)
 
 Embed electronic information
 
