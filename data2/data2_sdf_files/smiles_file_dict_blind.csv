@@ -1,8 +1,0 @@
-CCCCCCS,test_thiol_0
-Cc1ccc(S)cc1,test_thiol_1
-CCCc1ccccc1S,test_thiol_2
-COc1cccc(OC)c1S,test_thiol_3
-O=C(/N=C/c1ccc(C(F)(F)F)cc1)c1cccc2ccccc12,test_imine_0
-COc1ccc(/C=N/C(=O)c2ccc3ccccc3c2)cc1,test_imine_1
-O=C(/N=C/c1ccc(Br)cc1Br)c1ccccc1,test_imine_2
-O=C(/N=C/c1ccc(C(F)(F)F)cc1)c1ccc2ccccc2c1,test_imine_3
