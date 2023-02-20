@@ -14,6 +14,7 @@ Embed steric information:
 Embed electronic information
 
 ![SEMG_si_ele](https://user-images.githubusercontent.com/71930017/188142893-bbf371ee-1896-49e1-bd28-4976e8c2f9dd.jpg)
+
 # MIGNN
 
 The detailed workflow of the MIGNN model is shown as follows, which uses the chiral phosphoric acid-catalyzed thiol addition to N-acylimines as an example. 
