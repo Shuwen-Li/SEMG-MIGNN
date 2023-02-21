@@ -1,0 +1,9 @@
+/public3/home/scg5914/software-scg5914/LSW/1/data/data1_xyz_std_b3lyp/run.sh
+[01:22:00] Unable to recognize the number of atoms: cannot convert '#!/bin/bash' to unsigned int on line 0
+
+Traceback (most recent call last):
+  File "/public3/home/scg5914/software-scg5914/LSW/1/b3lyp_def2svp.py", line 89, in <module>
+    cal_dm(df_name='b3lyp',basis='def2-svp',tem_file='/public3/home/scg5914/software-scg5914/LSW/1/data/data1_xyz_std_b3lyp/'+sys.argv[1],file_dir='/public3/home/scg5914/software-scg5914/LSW/1/data/b3lyp_def2svp_data1_save_files/',grid_num=7)
+  File "/public3/home/scg5914/software-scg5914/LSW/1/b3lyp_def2svp.py", line 25, in cal_dm
+    symbols = [tmp_atom.GetSymbol() for tmp_atom in mol.GetAtoms()]
+AttributeError: 'NoneType' object has no attribute 'GetAtoms'
