@@ -7,7 +7,7 @@ Accurate prediction of reactivity and selectivity provides the desired guideline
 
 # Generation of SEMG
 
-Standardization of molecular orientation
+Standardization of molecular orientation:
 
 Based on the GFN2-xTB-optimized geometry, we standardized the molecular orientation to ensure the consistency of the encodings generated from different initial orientations. For each molecule, we selected three key atoms to determine the orientation of the molecule: the center of gravity, the atom closest to the center of gravity (atom1), and the atom furthest from the center of gravity (atom2). In step 1, the center of gravity is placed at the origin of the xyz coordinate system. In step 2, atom1 is rotated to the positive half of the z-axis, which determines the direction of the molecule along the z-axis. In step 3, atom2 is rotated to the yz plane and placed at the positive half of the y-axis, which determines the direction of the molecule along the y-axis.
 
@@ -17,7 +17,7 @@ Embed steric information:
 
 ![SEMG_steric](https://github.com/Shuwen-Li/SEMG-MIGNN/blob/main/picture/SEMG_steric.jpg)
 
-Embed electronic information
+Embed electronic information:
 
 ![SEMG_ed](https://github.com/Shuwen-Li/SEMG-MIGNN/blob/main/picture/SEMG_ed.jpg)
 
