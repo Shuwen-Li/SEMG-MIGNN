@@ -59,7 +59,7 @@ Notebook 3 demonstrates how to use generate local steric and electronic informat
 
 Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
 
-Baseline folder demonstrates how to train and predict yield/enantioselectivity by baseline MG-GCN, SEMG-GCN, baseline MG-MIGNN, and classical descriptors-models.
+Baseline folder demonstrates how to train and predict yield/enantioselectivity by baseline MG-GCN, SEMG-GCN, baseline MG-MIGNN, classical descriptors-models and SOTA models (MFF, Yield_Bert, DRFP).
 
 
 # How to cite
