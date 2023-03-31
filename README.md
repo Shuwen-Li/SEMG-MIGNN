@@ -64,5 +64,6 @@ Baseline folder demonstrates how to train and predict yield/enantioselectivity b
 
 # How to cite
 The paper is under review.
+https://zenodo.org/badge/latestdoi/353637203
 # Contact with us
 Email: hxchem@zju.edu.cn; shuwen-li@zju.edu.cn
