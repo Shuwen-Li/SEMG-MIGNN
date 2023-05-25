@@ -1,0 +1,10 @@
+Target,Descriptor Name,Model Name,R2 of Optimal Parameters,RMSE (in kcal/mol)  of Optimal Parameters
+Enantioselectivity,OH,RandomForest,0.885,0.233
+Enantioselectivity,RDKit,Gradient Boosting,0.9,0.217
+Enantioselectivity,MF,Gradient Boosting,0.901,0.217
+Enantioselectivity,ACSFs,Gradient Boosting,0.9,0.217
+Enantioselectivity,Baseline MG,GCN,0.777,0.332
+Enantioselectivity,SEMG,GCN,0.815,0.295
+Enantioselectivity,Baseline MG,MIGNN,0.876,0.245
+Enantioselectivity,SEMG,MIGNN,0.915,0.196
+,,,,

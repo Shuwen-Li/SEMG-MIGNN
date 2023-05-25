@@ -1,0 +1,10 @@
+Target,Descriptor Name,Model Name,R2 of Optimal Parameters,RMSE (in %) of Optimal Parameters
+Yield,OH,XGBoost,0.912,8.048
+Yield,RDKit,XGBoost,0.934,6.96
+Yield,MF,XGBoost,0.938,6.761
+Yield,ACSFs,XGBoost,0.929,7.238
+Yield,Baseline MG,GCN,0.546,18.39
+Yield,SEMG,GCN,0.591,17.55
+Yield,Baseline MG,MIGNN,0.92,7.7
+Yield,SEMG,MIGNN,0.97,4.8
+,,,,
