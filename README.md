@@ -63,7 +63,8 @@ Baseline folder demonstrates how to train and predict yield/enantioselectivity b
 
 
 # How to cite
-The paper is under review.
-https://zenodo.org/badge/latestdoi/353637203
+1.Li, S.-W., Xu, L.-C., Zhang, C., Zhang, S.-Q., & Hong, X. Reaction performance prediction with an extrapolative and interpretable graph model based on chemical knowledge. Nat. Commun., 14, 3569 (2023) DOI: https://doi.org/10.1038/s41467-023-39283-x. 
+2.Li, S.-W., Xu, L.-C., Zhang, C., Zhang, S.-Q., & Hong, X. Reaction performance prediction with an extrapolative and interpretable graph model based on chemical knowledge, SEMG-MIGNN. https://doi.org/10.6084/m9.figshare.2257 (2023).
+3.Li, S.-W., Xu, L.-C., Zhang, C., Zhang, S.-Q., & Hong, X. Reaction performance prediction with an extrapolative and interpretable graph model based on chemical knowledge, SEMG-MIGNN. https://doi.org/10.5281/zenodo.7788108 (2023).
 # Contact with us
 Email: hxchem@zju.edu.cn; shuwen-li@zju.edu.cn
