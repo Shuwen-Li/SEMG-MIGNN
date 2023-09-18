@@ -33,9 +33,9 @@ class Graph_DataLoader(Sequence):
             self.spms_mat,self.elec_vec,self.label_std = zip(*zipped)
             
 class MIGNN_model1(keras.Model):
-    def __init__(self,lig_size,add_size,base_size,ar_ha_size,hidden_size=256,linear_depth=10,
-                 atom_attention=4,inter_attention=1,end_attention=1,spms_number=32,ele_number=32,
-                 inter_len=8,final_act='sigmoid'):
+    def __init__(self,lig_size=107,add_size=36,base_size=56,ar_ha_size=18,hidden_size=128,linear_depth=10,
+                 atom_attention=1,inter_attention=1,end_attention=1,spms_number=32,ele_number=32,
+                 inter_len=8,final_act='none'):
         super(MIGNN_model1,self).__init__()
         self.lig_size = lig_size
         self.add_size = add_size
