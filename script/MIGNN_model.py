@@ -33,7 +33,7 @@ class Graph_DataLoader(Sequence):
             self.spms_mat,self.elec_vec,self.label_std = zip(*zipped)
             
 class MIGNN_model1(keras.Model):
-    def __init__(self,lig_size=107,add_size=36,base_size=56,ar_ha_size=18,hidden_size=128,linear_depth=10,
+    def __init__(self,lig_size=107,add_size=36,base_size=56,ar_ha_size=18,hidden_size=128,linear_depth=4,
                  atom_attention=1,inter_attention=1,end_attention=1,spms_number=32,ele_number=32,
                  inter_len=8,final_act='none'):
         super(MIGNN_model1,self).__init__()
@@ -250,8 +250,8 @@ class MIGNN_model1(keras.Model):
 
         return x
 class MIGNN_model2(keras.Model):
-    def __init__(self,cat_size=184,imine_size=33,thiol_size=19,hidden_size=512,linear_depth=2,atom_attention=1,
-                 inter_attention=1,end_attention=1,inter_len=8,spms_number=32,ele_number=32,fc_size=256,final_act='none'):
+    def __init__(self,cat_size=184,imine_size=33,thiol_size=19,hidden_size=128,linear_depth=6,atom_attention=1,
+                 inter_attention=1,end_attention=1,inter_len=8,spms_number=32,ele_number=32,fc_size=256,final_act='dense'):
 
         super(MIGNN_model2,self).__init__()
         self.cat_size = cat_size
