@@ -250,7 +250,7 @@ class MIGNN_model1(keras.Model):
 
         return x
 class MIGNN_model2(keras.Model):
-    def __init__(self,cat_size=184,imine_size=33,thiol_size=19,hidden_size=128,linear_depth=6,atom_attention=1,
+    def __init__(self,cat_size=184,imine_size=33,thiol_size=19,hidden_size=512,linear_depth=2,atom_attention=1,
                  inter_attention=1,end_attention=1,inter_len=8,spms_number=32,ele_number=32,fc_size=256,final_act='dense'):
 
         super(MIGNN_model2,self).__init__()
