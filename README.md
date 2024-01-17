@@ -40,6 +40,7 @@ networkx = 2.6.3
 numpy = 1.22.4  
 pandas = 1.3.3 
 pyscf = 2.0.1
+python = 3.8.12
 rdkit = 2022.03.2   
 scipy = 1.4.1 
 seaborn = 0.11.1 
