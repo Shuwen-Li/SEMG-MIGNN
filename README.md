@@ -56,7 +56,7 @@ Notebook 1 demonstrates how to generate local steric and electronic information 
 
 Notebook 2 demonstrates how to train and predict yield in data1.
 
-Notebook 3 demonstrates how to use generate local steric and electronic information in data2.
+Notebook 3 demonstrates how to generate local steric and electronic information in data2.
 
 Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
 
