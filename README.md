@@ -45,9 +45,13 @@ rdkit = 2022.03.2
 scipy = 1.4.1 
 seaborn = 0.11.1 
 sklearn = 0.23.2  
-tensorflow = 2.8.0-dev20211115
+tensorflow = 2.8.0
 xgboost = 1.3.3 
 ```
+
+For GPU training, the TensorFlow 2.8.0 wheel used for reproduction is built
+against CUDA 11.2 and cuDNN 8. A newer NVIDIA driver may be used as long as it
+provides backward compatibility and the NVIDIA device nodes are available.
 
 # Demo & Instructions for use
 
@@ -61,6 +65,36 @@ Notebook 3 demonstrates how to generate local steric and electronic information 
 Notebook 4 demonstrates how to train and predict enantioselectivity in data2.
 
 Baseline folder demonstrates how to train and predict yield/enantioselectivity by baseline MG-GCN, SEMG-GCN, baseline MG-MIGNN, classical descriptors-models and SOTA models (MFF, Yield_Bert, DRFP).
+
+## Command-line reproduction
+
+`reproduce_semg.py` provides a non-interactive route for regenerating the model
+inputs, training both random-split experiments, and scoring the prediction arrays
+released with this repository. Run it from the repository root with a compatible
+TensorFlow/RDKit environment:
+
+```bash
+python reproduce_semg.py official
+python reproduce_semg.py generate1
+python reproduce_semg.py data1
+python reproduce_semg.py generate2
+python reproduce_semg.py data2
+```
+
+Tensor generation requires roughly 5 GB of free disk space. Training defaults to
+100 maximum epochs for data1 and 50 for data2; use `--epochs N` for a smoke
+test. Generated tensors and metrics are written to
+`reproduction_data/` and `reproduction_results/`, respectively.
+
+Both interfaces save the restored model weights in `trained_model/` using the
+simple prefixes `data1` and `data2`:
+
+- Command line: run `python reproduce_semg.py data1` or `python reproduce_semg.py data2`.
+- Jupyter: run `Notebook_3_data1_train.ipynb` or `Notebook_4_data2_train.ipynb` from top to bottom.
+
+The checkpoint files are `data1.index`/`data1.data-*` and
+`data2.index`/`data2.data-*`; the adjacent JSON files record their parameters
+and validation metrics.
 
 
 # How to cite

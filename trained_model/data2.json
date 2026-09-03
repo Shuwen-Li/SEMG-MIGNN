@@ -1,0 +1,18 @@
+{
+  "dataset": "data2",
+  "max_epochs": 50,
+  "epochs_ran": 35,
+  "best_epoch": 20,
+  "seed": 77,
+  "batch_size": 32,
+  "learning_rate": 0.0005,
+  "hidden_size": 384,
+  "linear_depth": 2,
+  "weights_path": "trained_model/data2",
+  "seconds": 55.749980449676514,
+  "n": 475,
+  "r2": 0.9030979084803894,
+  "rmse": 0.22790589964005065,
+  "mae": 0.16168868999256933,
+  "pearson_r": 0.9504687216108599
+}
